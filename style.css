@@ -1,0 +1,17 @@
+body{
+ background-color: grey;
+    
+}
+.container{
+    display: inline-block;
+    position: fixed;
+    top: 62vh;
+    left: 10px;
+    width: 350px;
+    height: 350px;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: rgb(139, 212, 30);
+    box-shadow: 5px 5px 10px white;
+    z-index: 1000;
+}
